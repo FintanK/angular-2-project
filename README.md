@@ -7,8 +7,7 @@ I've also added bootstrap to help speed things up when reusing this code for oth
 Installation
 -------------
 
-> bower install
-> npm install
+> bower install && npm install
 
 Running the application
 ------------------------
