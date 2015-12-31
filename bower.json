@@ -1,0 +1,27 @@
+{
+  "name": "angular2-project",
+  "description": "An Angular 2 boilerplate",
+  "main": "",
+  "authors": [
+    "Fintan Kearney"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Angular",
+    "2",
+    "Node"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
