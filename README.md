@@ -1,4 +1,4 @@
-Angular 2 Project
+Angular 2 Project [![Build Status](https://david-dm.org/FintanK/angular-2-project.svg)](https://david-dm.org/FintanK/angular-2-project.svg)  
 -------------------
 
 ![](http://blog.falafel.com/wp-content/uploads/2015/03/maxresdefault.jpg)
