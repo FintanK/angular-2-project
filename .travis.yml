@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - "5.1"
+before_install:
+  -  npm cache -f clean
+  -  npm install -g bower
+  -  npm install
+install:
+  - bower install
+before_script: npm start
